@@ -15,13 +15,6 @@ This is my first markdown file. With markdown I plan on:
 * ???
 * PROFIT!
 
-I could even make this an ordered list! See?
-
-# Learning Markdown
-# Make a random list to practice (with numbers!)
-# ???
-# PROFIT!
-
 Okay, I'm done! Thanks everyone!
 Jason
 
